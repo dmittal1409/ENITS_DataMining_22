@@ -69,15 +69,14 @@ Please work through the MatplotLib notebook.
 
 ## Week 6
 ### Lecture
-* [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/RF_demo.ipynb)
+* [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/RF_demo.ipynb) 
  
 
 ### Assingment
-* [Lab+Assignment 6.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_6/LabAndAssignment_FraudDetection.ipynb)
+* [Lab+Assignment 6.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_6/LabAndAssignment_FraudDetection.ipynb)-> [Solution](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_6/LabAndAssignment_FraudDetection_Solution.ipynb)
 
 ## Week 7
-### Lab
-* [Lab exercise](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_7/Lab_plot_classifier_comparison.ipynb)
+
 
 ### Assignment
-* [Assignment 7.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_7/Assignment_PCA.ipynb)
+* [Assignment 7.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_7/Lab_FraudDetection_Part_II.ipynb)
