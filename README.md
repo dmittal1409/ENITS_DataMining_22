@@ -69,7 +69,7 @@ Please work through the MatplotLib notebook.
 
 ## Week 6
 ### Lecture
-* [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_21/blob/main/Week_6/RF_demo.ipynb) 
+* [Random Forest Demo](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_6/RF_demo.ipynb) 
  
 
 ### Assingment
