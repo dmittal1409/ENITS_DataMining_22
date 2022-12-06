@@ -91,8 +91,8 @@ Please work through the MatplotLib notebook.
 ## Week 9
 
 ### Lab
-* [Keras AutoEncoder Intro](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_9/Lab_timeseries_anomaly_detection.ipynb)
+* [Keras AutoEncoder Intro](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_9/Intro_to_Keras.ipynb)
 
 ### Assignment
-* [Assignment 9.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_9/Assignment_outlyer_detection.ipynb)
+* [Assignment 9.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_9/Assignment_fraud_detection.ipynb)
 
