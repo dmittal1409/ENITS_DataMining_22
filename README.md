@@ -97,4 +97,5 @@ Please work through the MatplotLib notebook.
 * [Assignment 9.1](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_9/Assignment_fraud_detection.ipynb)
 
 ## Week 10
+### Assignment
 * [Image Classification with CNNs](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_10/Assignment_CNNs.ipynb)
