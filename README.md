@@ -99,3 +99,7 @@ Please work through the MatplotLib notebook.
 ## Week 10
 ### Assignment
 * [Image Classification with CNNs](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_10/Assignment_CNNs.ipynb)
+
+## Week 11
+### Lab
+* [Outlier Detection](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_11/Assignment_outlyer_detection.ipynb)
