@@ -103,3 +103,9 @@ Please work through the MatplotLib notebook.
 ## Week 11
 ### Assignment
 * [Outlier Detection](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_11/Assignment_outlyer_detection.ipynb)
+
+## Week 12
+### Assignment
+*  [GenSim Library Docs](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
+*  [GenSIM Doc2Vec Example](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_12/gensim_doc2vec.ipynb)
+*  [Assignment 12 ](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_12/Assignment_12.ipynb)
