@@ -105,6 +105,9 @@ Please work through the MatplotLib notebook.
 * [Outlier Detection](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_11/Assignment_outlyer_detection.ipynb)
 
 ## Week 12
+### Examples
+* [DASK](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_12/dask_intro.ipynb)
+* [Rapids](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_12/Lecture_rapids_colab_cuML_demo.ipynb)
 ### Assignment
 *  [GenSim Library Docs](https://radimrehurek.com/gensim/auto_examples/index.html#documentation)
 *  [GenSIM Doc2Vec Example](https://colab.research.google.com/github/keuperj/ENITS_DataMining_22/blob/main/Week_12/gensim_doc2vec.ipynb)
